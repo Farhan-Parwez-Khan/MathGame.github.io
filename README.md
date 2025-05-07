@@ -5,6 +5,7 @@ It is a simple game in which you have to answer as many arethematic questions as
 Here is the code behind:
 
 ![codeimage1](code.png)
+
 Here is a sample of the output:
 
 ![codeimage](coderunimage.png)
