@@ -11,4 +11,4 @@ Here is a sample of the output:
 ![codeimage](coderunimage.png)
 #### Hope you will have fun playing it
 ### Thank You
-[Link to Bhaiya's site](https://Kaysan-Parwez-Khan.github.io/firstwebsite.github.io/index.html)
+[Link to Bhaiya's site](https://Kaysan-Parwez-Khan.github.io/firstwebsite.github.io/README.md)
