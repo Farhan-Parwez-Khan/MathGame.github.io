@@ -1,5 +1,3 @@
-<div style="background-image: url('Codebackground.jpg'); padding: 20px;">
-</div>
 # ***Math Game***
 ## Game's introduction
 My name is **Farhan Parwez Khan** and I have made a simple game using ***Python***. In this code i have used modules like *Random* and *Time*.
