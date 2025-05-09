@@ -3,7 +3,7 @@
 My name is **Farhan Parwez Khan** and I have made a simple game using ***Python***. In this code i have used modules like *Random* and *Time*.
 It is a simple game in which you have to answer as many arithmetic questions as you can in 10 sec.
 Here is the code behind:
-'''import random
+''' import random
 
 import time
 
@@ -57,7 +57,7 @@ print("Time's up")
 
 print('Your score is', count)
 
-break'''
+break '''
 ![codeimage1](code.png)
 
 Here is a sample of the output:
