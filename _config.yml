@@ -1,1 +1,3 @@
-remote_theme: agency
+remote_theme: raviriley/agency-jekyll-theme
+plugins:
+  - jekyll-remote-theme
