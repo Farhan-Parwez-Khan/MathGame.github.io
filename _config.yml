@@ -1,2 +1,5 @@
 title: Math Game
-theme: jekyll-theme-hacker
+description: A site using the Agency Jekyll theme
+remote_theme: raviriley/agency-jekyll-theme
+plugins:
+  - jekyll-remote-theme
