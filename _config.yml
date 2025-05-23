@@ -1,3 +1,4 @@
 title: Math Game
-theme: jekyll-theme-hacker 
-header_bg: headerbg.jpg
+remote_theme: raviriley/agency-jekyll-theme
+plugins:
+  - jekyll-remote-theme 
